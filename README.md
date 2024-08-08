@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arsani Magdi, and I work as a softwaire developer, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on <a herf="arsani-tech.netlify.app">my website</a> 📱👀</p>
+<p align="left">My name is Arsani Magdi, and I work as a softwaire developer, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on <a href="arsani-tech.netlify.app">my website</a> 📱👀</p>
 
 ###
 
