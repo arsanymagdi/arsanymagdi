@@ -48,8 +48,6 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Firebase](https://skillicons.dev/icons?i=firebase) 
 ![Supabase](https://skillicons.dev/icons?i=supabase) 
 ![Prisma](https://skillicons.dev/icons?i=prisma) 
-![Oracle](https://skillicons.dev/icons?i=oracle) 
-![Microsoft SQL Server](https://skillicons.dev/icons?i=mssql) 
 ![DynamoDB](https://skillicons.dev/icons?i=dynamodb) 
 
 ## ☁️ Cloud & DevOps
