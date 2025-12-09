@@ -81,6 +81,7 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Alfred](https://skillicons.dev/icons?i=alfred) 
 ![Steam](https://skillicons.dev/icons?i=steam) 
 ![EA](https://skillicons.dev/icons?i=ea) 
+![EA](https://skillicons.dev/icons?i=code) 
 
 ## 📡 IoT & Hardware
 ![Arduino](https://skillicons.dev/icons?i=arduino) 
