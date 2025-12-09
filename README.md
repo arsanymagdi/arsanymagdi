@@ -1,9 +1,10 @@
+<div align="center"> <img src="header.png"> </div>
 # 💫 About Me:
 Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy making projects that have a creative touch, from web applications down to desktop ones. I love trying new technologies and further honing my skills in programming and electronics.<br><br>Presently, I am a student at Collège Saint-Marc, where I enjoy learning both in the classroom and through hands-on projects.<br><br>🔧**Hobbies:** Robotics, electronics, coding challenges, and building personal projects<br><br>🌱 **Currently learning:** Advanced React and Flutter development You can check out my projects below, and feel free to connect with me!
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arsani2010) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arsany.behelak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsani278) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arsanitech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@arsanitecheg.onmicrosoft.com) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/arsani2010) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arsany.behelak) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arsani278) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arsanitech) [![email](https://skillicons.dev/icons?i=gmail)](mailto:admin@arsanitecheg.onmicrosoft.com) 
 
 # 💻 Tech Stack:
 ## 🖥️ Languages
@@ -38,6 +39,7 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![NestJS](https://skillicons.dev/icons?i=nestjs) 
 ![jQuery](https://skillicons.dev/icons?i=jquery) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
+![Bootstrap](https://skillicons.dev/icons?i=swift) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 
 ## 💾 Databases & Backend
@@ -61,27 +63,21 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![GitLab CI](https://skillicons.dev/icons?i=gitlab) 
 
 ## 🎨 Design & Multimedia
-![Adobe](https://skillicons.dev/icons?i=adobe) 
+![Adobe](https://skillicons.dev/icons?i=xd) 
 ![Photoshop](https://skillicons.dev/icons?i=photoshop) 
-![Illustrator](https://skillicons.dev/icons?i=illustrator) 
+![Illustrator](https://skillicons.dev/icons?i=ai) 
+![Illustrator](https://skillicons.dev/icons?i=pr) 
 ![Figma](https://skillicons.dev/icons?i=figma) 
 ![Blender](https://skillicons.dev/icons?i=blender) 
-![Affinity Designer](https://skillicons.dev/icons?i=affinitydesigner) 
-![Affinity Photo](https://skillicons.dev/icons?i=affinityphoto) 
-![Inkscape](https://skillicons.dev/icons?i=inkscape) 
-![Canva](https://skillicons.dev/icons?i=canva) 
+
 
 ## 🛠️ Tools & Productivity
 ![Git](https://skillicons.dev/icons?i=git) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![GitLab](https://skillicons.dev/icons?i=gitlab) 
-![Jira](https://skillicons.dev/icons?i=jira) 
 ![Notion](https://skillicons.dev/icons?i=notion) 
-![Trello](https://skillicons.dev/icons?i=trello) 
-![Alfred](https://skillicons.dev/icons?i=alfred) 
-![Steam](https://skillicons.dev/icons?i=steam) 
-![EA](https://skillicons.dev/icons?i=ea) 
-![EA](https://skillicons.dev/icons?i=code) 
+![EA](https://skillicons.dev/icons?i=vscode) 
+![EA](https://skillicons.dev/icons?i=visualstudio) 
 
 ## 📡 IoT & Hardware
 ![Arduino](https://skillicons.dev/icons?i=arduino) 
