@@ -8,7 +8,7 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 # 💻 Tech Stack:
 ## 🖥️ Languages
 ![C](https://skillicons.dev/icons?i=c) 
-![C#](https://skillicons.dev/icons?i=csharp) 
+![C#](https://skillicons.dev/icons?i=cs) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![Java](https://skillicons.dev/icons?i=java) 
