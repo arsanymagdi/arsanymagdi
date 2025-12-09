@@ -1,10 +1,14 @@
 <div align="center"> <img src="header.png"> </div>
+
 # 💫 About Me:
-Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy making projects that have a creative touch, from web applications down to desktop ones. I love trying new technologies and further honing my skills in programming and electronics.<br><br>Presently, I am a student at Collège Saint-Marc, where I enjoy learning both in the classroom and through hands-on projects.<br><br>🔧**Hobbies:** Robotics, electronics, coding challenges, and building personal projects<br><br>🌱 **Currently learning:** Advanced React and Flutter development You can check out my projects below, and feel free to connect with me!
+<br>
+Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy making projects that have a creative touch, from web applications down to desktop ones. I love trying new technologies and further honing my skills in programming and electronics.<br><br>Presently, I am a student at Collège Saint-Marc, where I enjoy learning both in the classroom and through hands-on projects.<br><br>
+
+🔧 **Hobbies:**  Robotics, electronics, coding challenges, and building personal projects<br><br>🌱 **Currently learning:** Advanced React and Flutter development You can check out my projects below, and feel free to connect with me!
 
 
 ## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/arsani2010) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arsany.behelak) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arsani278) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arsanitech) [![email](https://skillicons.dev/icons?i=gmail)](mailto:admin@arsanitecheg.onmicrosoft.com) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/arsani2010) [![Facebook]<img src="fbpng">](https://facebook.com/arsany.behelak) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arsani278) [![YouTube]<img src="ytpng">](https://youtube.com/@@arsanitech) [![email](https://skillicons.dev/icons?i=gmail)](mailto:admin@arsanitecheg.onmicrosoft.com) 
 
 # 💻 Tech Stack:
 ## 🖥️ Languages
