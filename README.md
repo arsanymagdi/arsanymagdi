@@ -8,7 +8,7 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 
 
 ## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/arsani2010) [![Facebook]<img src="fbpng">](https://facebook.com/arsany.behelak) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arsani278) [![YouTube]<img src="ytpng">](https://youtube.com/@@arsanitech) [![email](https://skillicons.dev/icons?i=gmail)](mailto:admin@arsanitecheg.onmicrosoft.com) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/arsani2010) [<img src="./fb.png" width="45" />](https://facebook.com/arsany.behelak) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arsani278) [<img src="./yt.png" width="45" />](https://youtube.com/@@arsanitech) [![email](https://skillicons.dev/icons?i=gmail)](mailto:admin@arsanitecheg.onmicrosoft.com) 
 
 # 💻 Tech Stack:
 ## 🖥️ Languages
@@ -97,10 +97,4 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![](https://nirzak-streak-stats.vercel.app/?user=arsanymagdi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsanymagdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arsanymagdi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=arsanymagdi&icon=3&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
