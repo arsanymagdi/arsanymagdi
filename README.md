@@ -7,11 +7,12 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 🔧 **Hobbies:**  Robotics, electronics, coding challenges, and building personal projects<br><br>🌱 **Currently learning:** Advanced React and Flutter development You can check out my projects below, and feel free to connect with me!
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/arsani2010) [<img src="./fb.png" width="45" />](https://facebook.com/arsany.behelak) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arsani278) [<img src="./yt.png" width="45" />](https://youtube.com/@@arsanitech) [![email](https://skillicons.dev/icons?i=gmail)](mailto:admin@arsanitecheg.onmicrosoft.com) 
-
+<br>
+<br>
 # 💻 Tech Stack:
-## 🖥️ Languages
+### 🖥️ Languages
 ![C](https://skillicons.dev/icons?i=c) 
 ![C#](https://skillicons.dev/icons?i=cs) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
@@ -30,8 +31,9 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![PHP](https://skillicons.dev/icons?i=php) 
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
-
-## 🌐 Web & Mobile
+<br>
+<br>
+### 🌐 Web & Mobile
 ![React](https://skillicons.dev/icons?i=react) 
 ![React Native](https://skillicons.dev/icons?i=react) 
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
@@ -45,8 +47,9 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
 ![Bootstrap](https://skillicons.dev/icons?i=swift) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
-
-## 💾 Databases & Backend
+<br>
+<br>
+### 💾 Databases & Backend
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
@@ -55,8 +58,9 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Supabase](https://skillicons.dev/icons?i=supabase) 
 ![Prisma](https://skillicons.dev/icons?i=prisma) 
 ![DynamoDB](https://skillicons.dev/icons?i=dynamodb) 
-
-## ☁️ Cloud & DevOps
+<br>
+<br>
+### ☁️ Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws) 
 ![Azure](https://skillicons.dev/icons?i=azure) 
 ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) 
@@ -65,36 +69,50 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Docker](https://skillicons.dev/icons?i=docker) 
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) 
 ![GitLab CI](https://skillicons.dev/icons?i=gitlab) 
-
-## 🎨 Design & Multimedia
+<br>
+<br>
+### 🎨 Design & Multimedia
 ![Adobe](https://skillicons.dev/icons?i=xd) 
 ![Photoshop](https://skillicons.dev/icons?i=photoshop) 
 ![Illustrator](https://skillicons.dev/icons?i=ai) 
 ![Illustrator](https://skillicons.dev/icons?i=pr) 
 ![Figma](https://skillicons.dev/icons?i=figma) 
 ![Blender](https://skillicons.dev/icons?i=blender) 
-
-
-## 🛠️ Tools & Productivity
+<br>
+<br>
+### 🛠️ Tools & Productivity
 ![Git](https://skillicons.dev/icons?i=git) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![GitLab](https://skillicons.dev/icons?i=gitlab) 
 ![Notion](https://skillicons.dev/icons?i=notion) 
 ![EA](https://skillicons.dev/icons?i=vscode) 
 ![EA](https://skillicons.dev/icons?i=visualstudio) 
-
-## 📡 IoT & Hardware
+<br>
+<br>
+### 📡 IoT & Hardware
 ![Arduino](https://skillicons.dev/icons?i=arduino) 
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) 
 ![Home Assistant](https://skillicons.dev/icons?i=homeassistant) 
 ![Homebridge](https://skillicons.dev/icons?i=homebridge) 
 ![Zigbee](https://skillicons.dev/icons?i=zigbee) 
 ![Ubiquiti](https://skillicons.dev/icons?i=ubiquiti) 
-
+<br>
+<br>
+<br>
+<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arsanymagdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arsanymagdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsanymagdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
+<p align="center">
+  <img src="overview.svg" alt="Demo1" style="max-width: 100%;">
+  <img src="languages.svg" alt="Demo2" style="max-width: 100%;">
+</p>
+<br>
+<br>
+<p align="center">
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arsanymagdi&theme=dark&hide_border=false" />
+  
+</p>
 
