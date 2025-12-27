@@ -76,6 +76,7 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Photoshop](https://skillicons.dev/icons?i=photoshop) 
 ![Illustrator](https://skillicons.dev/icons?i=ai) 
 ![Illustrator](https://skillicons.dev/icons?i=pr) 
+![Illustrator](https://skillicons.dev/icons?i=ae) 
 ![Figma](https://skillicons.dev/icons?i=figma) 
 ![Blender](https://skillicons.dev/icons?i=blender) 
 <br>
@@ -87,6 +88,7 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
 ![Notion](https://skillicons.dev/icons?i=notion) 
 ![EA](https://skillicons.dev/icons?i=vscode) 
 ![EA](https://skillicons.dev/icons?i=visualstudio) 
+![EA](https://skillicons.dev/icons?i=androidstudio) 
 <br>
 <br>
 ### 📡 IoT & Hardware
