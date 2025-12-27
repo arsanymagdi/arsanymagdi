@@ -111,6 +111,10 @@ Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy mak
   <img src="languages.svg" alt="Demo2" style="max-width: 100%;">
 </p>
 <br>
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="Demo1" style="max-width: 100%;">
+</p>
+<br>
 <br>
 <p align="center">
   
