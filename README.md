@@ -2,9 +2,15 @@
 
 # 💫 About Me:
 <br>
-Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast. I enjoy making projects that have a creative touch, from web applications down to desktop ones. I love trying new technologies and further honing my skills in programming and electronics.<br><br>Presently, I am a student at Collège Saint-Marc, where I enjoy learning both in the classroom and through hands-on projects.<br><br>
+Hello! I'm Arsani Magdi, a passionate developer and tech enthusiast who enjoys building creative projects ranging from web applications to desktop software. I love exploring new technologies and continuously improving my skills in programming, networking, and electronics.
 
-🔧 **Hobbies:**  Robotics, electronics, coding challenges, and building personal projects<br><br>🌱 **Currently learning:** Advanced React and Flutter development You can check out my projects below, and feel free to connect with me!
+Currently, I am a student at Collège Saint-Marc, where I combine academic learning with hands-on technical projects and experimentation.
+
+🔧 Interests: Robotics, electronics, homelabs, self-hosting, coding challenges, IoT, and personal projects
+
+🌱 Currently learning: Advanced React, Flutter development, Linux systems, and automation
+
+Feel free to explore my projects and connect with me!
 
 
 ### 🌐 Socials:
